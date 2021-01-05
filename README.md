@@ -1,2 +1,5 @@
 # workload_gammcor
-Workload for GammCor
+For the actual workloads:
+```
+git clone https://gitlab.version.fz-juelich.de/trex/GammCor
+```
